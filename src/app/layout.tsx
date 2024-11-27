@@ -18,6 +18,9 @@ export const metadata: Metadata = {
   title: "EasyPPP - Simple Pricing Optimization with Purchasing Power Parity",
   description:
     "EasyPPP is a pricing optimization platform that leverages purchasing power parity to automatically adjust prices based on customers' geographical location. Simplify global pricing strategies and maximize revenue with fairness.",
+  icons: {
+    icon: "/icon.png",
+  },
 };
 
 export default function RootLayout({
